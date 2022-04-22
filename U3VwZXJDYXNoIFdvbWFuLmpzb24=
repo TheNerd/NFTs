@@ -1,0 +1,29 @@
+{
+    "id": 2,
+    "name": "SuperCash Woman",
+    "image": "https://mute-mountain-5989.on.fleek.co/U3VwZXJDYXNoIFdvbWFuLmpwZw==",
+    "minted_at": "ide.zilliqa.com",
+    "attributes": [{
+            "value": "Caricature",
+            "trait_type": "Type"
+        },
+        {
+            "value": "White",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Original",
+            "trait_type": "Logo1"
+        },
+        {
+            "value": "Alternative",
+            "trait_type": "Logo2"
+        },
+        {
+            "value": "Superhero",
+            "trait_type": "Character"
+        }
+    ],
+    "description": "SuperCash Woman is here to save the day giving financial freedom to all!",
+    "resource": "https://mute-mountain-5989.on.fleek.co/U3VwZXJDYXNoIFdvbWFuLmpwZw=="
+}
