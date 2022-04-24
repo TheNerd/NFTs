@@ -1,0 +1,29 @@
+{
+    "id": 10,
+    "name": "Who's Covid",
+    "image": "https://mute-mountain-5989.on.fleek.co/V2hvJ3MgQ292aWQgLSBUcmFuc3BhcmVudC5wbmc=",
+    "minted_at": "ide.zilliqa.com",
+    "attributes": [{
+            "value": "Caricature",
+            "trait_type": "Type"
+        },
+        {
+            "value": "Transparent",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Alternate",
+            "trait_type": "Logo1"
+        },
+        {
+            "value": "NA",
+            "trait_type": "Logo2"
+        },
+        {
+            "value": "Human",
+            "trait_type": "Character"
+        }
+    ],
+    "description": "",
+    "resource": "https://mute-mountain-5989.on.fleek.co/V2hvJ3MgQ292aWQgLSBUcmFuc3BhcmVudC5wbmc="
+}
