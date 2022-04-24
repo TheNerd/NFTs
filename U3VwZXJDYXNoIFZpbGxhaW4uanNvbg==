@@ -1,0 +1,29 @@
+{
+    "id": 3,
+    "name": "SuperCash Villain",
+    "image": "https://mute-mountain-5989.on.fleek.co/U3VwZXJDYXNoIFZpbGxhaW4ucG5n",
+    "minted_at": "ide.zilliqa.com",
+    "attributes": [{
+            "value": "Caricature",
+            "trait_type": "Type"
+        },
+        {
+            "value": "White",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Original",
+            "trait_type": "Logo1"
+        },
+        {
+            "value": "NA",
+            "trait_type": "Logo2"
+        },
+        {
+            "value": "Supervillain",
+            "trait_type": "Character"
+        }
+    ],
+    "description": "SuperCash Villain is SuperCash Woman's arch nemesis!",
+    "resource": "https://mute-mountain-5989.on.fleek.co/U3VwZXJDYXNoIFZpbGxhaW4ucG5n"
+}
