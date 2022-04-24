@@ -1,0 +1,29 @@
+{
+    "id": 7,
+    "name": "Phil The Cash Duck",
+    "image": "https://mute-mountain-5989.on.fleek.co/UGhpbCBUaGUgQ2FzaCBEdWNrIC0gV2hpdGUucG5n",
+    "minted_at": "ide.zilliqa.com",
+    "attributes": [{
+            "value": "Cartoon",
+            "trait_type": "Type"
+        },
+        {
+            "value": "White",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Alternative",
+            "trait_type": "Logo1"
+        },
+        {
+            "value": "NA",
+            "trait_type": "Logo2"
+        },
+        {
+            "value": "Animal - Duck",
+            "trait_type": "Character"
+        }
+    ],
+    "description": "",
+    "resource": "https://mute-mountain-5989.on.fleek.co/UGhpbCBUaGUgQ2FzaCBEdWNrIC0gV2hpdGUucG5n"
+}
