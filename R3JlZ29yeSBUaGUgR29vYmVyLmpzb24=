@@ -1,0 +1,29 @@
+{
+    "id": 8,
+    "name": "Gregory The Goober",
+    "image": "https://mute-mountain-5989.on.fleek.co/R3JlZ29yeSBUaGUgR29vYmVyLnBuZw==",
+    "minted_at": "ide.zilliqa.com",
+    "attributes": [{
+            "value": "Cartoon",
+            "trait_type": "Type"
+        },
+        {
+            "value": "White",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Official",
+            "trait_type": "Logo1"
+        },
+        {
+            "value": "Alternative",
+            "trait_type": "Logo2"
+        },
+        {
+            "value": "Monster",
+            "trait_type": "Character"
+        }
+    ],
+    "description": "",
+    "resource": "https://mute-mountain-5989.on.fleek.co/R3JlZ29yeSBUaGUgR29vYmVyLnBuZw=="
+}
