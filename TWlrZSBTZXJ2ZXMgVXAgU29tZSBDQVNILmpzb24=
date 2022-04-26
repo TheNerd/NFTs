@@ -1,0 +1,29 @@
+{
+    "id": 11,
+    "name": "Mike Serves Up Some CASH",
+    "image": "https://mute-mountain-5989.on.fleek.co/V2hvJ3MgQ292aWQgLSBUcmFuc3BhcmVudC5wbmc=",
+    "minted_at": "ide.zilliqa.com",
+    "attributes": [{
+            "value": "Cartoon",
+            "trait_type": "Type"
+        },
+        {
+            "value": "White",
+            "trait_type": "Background"
+        },
+        {
+            "value": "Alternate",
+            "trait_type": "Logo1"
+        },
+        {
+            "value": "NA",
+            "trait_type": "Logo2"
+        },
+        {
+            "value": "Monkey",
+            "trait_type": "Character"
+        }
+    ],
+    "description": "",
+    "resource": "https://mute-mountain-5989.on.fleek.co/V2hvJ3MgQ292aWQgLSBUcmFuc3BhcmVudC5wbmc="
+}
